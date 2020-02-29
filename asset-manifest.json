@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-blog-github/static/css/main.c3d91033.chunk.css",
+    "main.js": "/react-blog-github/static/js/main.55e3bd3d.chunk.js",
+    "main.js.map": "/react-blog-github/static/js/main.55e3bd3d.chunk.js.map",
+    "runtime-main.js": "/react-blog-github/static/js/runtime-main.442d08e4.js",
+    "runtime-main.js.map": "/react-blog-github/static/js/runtime-main.442d08e4.js.map",
+    "static/js/2.db49421f.chunk.js": "/react-blog-github/static/js/2.db49421f.chunk.js",
+    "static/js/2.db49421f.chunk.js.map": "/react-blog-github/static/js/2.db49421f.chunk.js.map",
+    "index.html": "/react-blog-github/index.html",
+    "precache-manifest.bfc84104fdfe10fbcab57e4fc1ba8930.js": "/react-blog-github/precache-manifest.bfc84104fdfe10fbcab57e4fc1ba8930.js",
+    "service-worker.js": "/react-blog-github/service-worker.js",
+    "static/css/main.c3d91033.chunk.css.map": "/react-blog-github/static/css/main.c3d91033.chunk.css.map",
+    "static/js/2.db49421f.chunk.js.LICENSE": "/react-blog-github/static/js/2.db49421f.chunk.js.LICENSE",
+    "static/media/loader.svg": "/react-blog-github/static/media/loader.47601b16.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.442d08e4.js",
+    "static/js/2.db49421f.chunk.js",
+    "static/css/main.c3d91033.chunk.css",
+    "static/js/main.55e3bd3d.chunk.js"
+  ]
+}
